@@ -1,0 +1,76 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "settings": "Paramètres"
+  },
+  "home": {
+    "title": "Accueil",
+    "error": "Une erreur est survenue",
+    "add": "Ajouter"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "languages": "Langages",
+    "language": {
+      "title": "Sélectionner une langue"
+    }
+  },
+  "task_list": {
+    "no_task":"Il n'y a aucune tâche pour ce jour"
+  },
+  "task_form": {
+    "name": {
+      "label": "Nom",
+      "error": {
+        "required": "Le nom est requis"
+      }
+    },
+    "description": {
+      "label": "Description"
+    },
+    "date": {
+      "label": "Date"
+    },
+    "reminder": {
+      "label": "Rappel"
+    },
+    "repeat": {
+      "label": "Répéter"
+    },
+    "repeat_frequency": {
+      "daily": "Quotidien",
+      "weekly": "Hebdomadaire",
+      "monthly": "Mensuel",
+      "yearly": "Annuel",
+      "error": {
+        "required": "La fréquence est requise"
+      }
+    }
+  },
+  "add_task": {
+    "title": "Ajouter une tâche",
+    "cancel": "Annuler",
+    "add": "Ajouter"
+  },
+  "edit_task": {
+    "title": "Éditer une tâche",
+    "cancel": "Annuler",
+    "edit": "Éditer"
+  },
+  "delete_task": {
+    "title": "Supprimer une tâche",
+    "content": {
+      "1": "Êtes-vous sûr de vouloir supprimer la tâche ",
+      "2": " ?"
+    },
+    "cancel": "Annuler",
+    "delete": "Supprimer"
+  },
+  "task_details": {
+    "no_description": "Aucune description",
+    "date": "Pour le {date}",
+    "reminder": "Rappel à {time}",
+    "edit": "Éditer",
+    "delete": "Supprimer"
+  }
+}
